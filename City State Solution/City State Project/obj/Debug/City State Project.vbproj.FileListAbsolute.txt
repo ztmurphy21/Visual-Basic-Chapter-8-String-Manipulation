@@ -1,0 +1,10 @@
+E:\College\Visual Basic\VB2015\Chap08\City State Solution\City State Project\bin\Debug\City State Project.exe.config
+E:\College\Visual Basic\VB2015\Chap08\City State Solution\City State Project\bin\Debug\City State Project.exe
+E:\College\Visual Basic\VB2015\Chap08\City State Solution\City State Project\bin\Debug\City State Project.pdb
+E:\College\Visual Basic\VB2015\Chap08\City State Solution\City State Project\bin\Debug\City State Project.xml
+E:\College\Visual Basic\VB2015\Chap08\City State Solution\City State Project\obj\Debug\City_State_Project.frmMain.resources
+E:\College\Visual Basic\VB2015\Chap08\City State Solution\City State Project\obj\Debug\City_State_Project.Resources.resources
+E:\College\Visual Basic\VB2015\Chap08\City State Solution\City State Project\obj\Debug\City State Project.vbproj.GenerateResource.Cache
+E:\College\Visual Basic\VB2015\Chap08\City State Solution\City State Project\obj\Debug\City State Project.exe
+E:\College\Visual Basic\VB2015\Chap08\City State Solution\City State Project\obj\Debug\City State Project.xml
+E:\College\Visual Basic\VB2015\Chap08\City State Solution\City State Project\obj\Debug\City State Project.pdb
