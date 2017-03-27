@@ -1,0 +1,10 @@
+E:\College\Visual Basic\VB2015\Chap08\Modified Product Solution\Product Project\bin\Debug\Product Project.exe.config
+E:\College\Visual Basic\VB2015\Chap08\Modified Product Solution\Product Project\bin\Debug\Product Project.exe
+E:\College\Visual Basic\VB2015\Chap08\Modified Product Solution\Product Project\bin\Debug\Product Project.pdb
+E:\College\Visual Basic\VB2015\Chap08\Modified Product Solution\Product Project\bin\Debug\Product Project.xml
+E:\College\Visual Basic\VB2015\Chap08\Modified Product Solution\Product Project\obj\Debug\Product_Project.frmMain.resources
+E:\College\Visual Basic\VB2015\Chap08\Modified Product Solution\Product Project\obj\Debug\Product_Project.Resources.resources
+E:\College\Visual Basic\VB2015\Chap08\Modified Product Solution\Product Project\obj\Debug\Product Project.vbproj.GenerateResource.Cache
+E:\College\Visual Basic\VB2015\Chap08\Modified Product Solution\Product Project\obj\Debug\Product Project.exe
+E:\College\Visual Basic\VB2015\Chap08\Modified Product Solution\Product Project\obj\Debug\Product Project.xml
+E:\College\Visual Basic\VB2015\Chap08\Modified Product Solution\Product Project\obj\Debug\Product Project.pdb
