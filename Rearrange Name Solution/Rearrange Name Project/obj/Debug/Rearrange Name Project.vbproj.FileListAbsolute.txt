@@ -1,0 +1,10 @@
+E:\College\Visual Basic\VB2015\Chap08\Rearrange Name Solution\Rearrange Name Project\bin\Debug\Rearrange Name Project.exe.config
+E:\College\Visual Basic\VB2015\Chap08\Rearrange Name Solution\Rearrange Name Project\bin\Debug\Rearrange Name Project.exe
+E:\College\Visual Basic\VB2015\Chap08\Rearrange Name Solution\Rearrange Name Project\bin\Debug\Rearrange Name Project.pdb
+E:\College\Visual Basic\VB2015\Chap08\Rearrange Name Solution\Rearrange Name Project\bin\Debug\Rearrange Name Project.xml
+E:\College\Visual Basic\VB2015\Chap08\Rearrange Name Solution\Rearrange Name Project\obj\Debug\Rearrange_Name_Project.frmMain.resources
+E:\College\Visual Basic\VB2015\Chap08\Rearrange Name Solution\Rearrange Name Project\obj\Debug\Rearrange_Name_Project.Resources.resources
+E:\College\Visual Basic\VB2015\Chap08\Rearrange Name Solution\Rearrange Name Project\obj\Debug\Rearrange Name Project.vbproj.GenerateResource.Cache
+E:\College\Visual Basic\VB2015\Chap08\Rearrange Name Solution\Rearrange Name Project\obj\Debug\Rearrange Name Project.exe
+E:\College\Visual Basic\VB2015\Chap08\Rearrange Name Solution\Rearrange Name Project\obj\Debug\Rearrange Name Project.xml
+E:\College\Visual Basic\VB2015\Chap08\Rearrange Name Solution\Rearrange Name Project\obj\Debug\Rearrange Name Project.pdb
