@@ -1,0 +1,11 @@
+E:\College\Visual Basic\VB2015\Chap08\Date Solution\Date Project\bin\Debug\Date Project.exe.config
+E:\College\Visual Basic\VB2015\Chap08\Date Solution\Date Project\bin\Debug\Date Project.exe
+E:\College\Visual Basic\VB2015\Chap08\Date Solution\Date Project\bin\Debug\Date Project.pdb
+E:\College\Visual Basic\VB2015\Chap08\Date Solution\Date Project\bin\Debug\Date Project.xml
+E:\College\Visual Basic\VB2015\Chap08\Date Solution\Date Project\obj\Debug\Date Project.vbprojResolveAssemblyReference.cache
+E:\College\Visual Basic\VB2015\Chap08\Date Solution\Date Project\obj\Debug\Date_Project.frmMain.resources
+E:\College\Visual Basic\VB2015\Chap08\Date Solution\Date Project\obj\Debug\Date_Project.Resources.resources
+E:\College\Visual Basic\VB2015\Chap08\Date Solution\Date Project\obj\Debug\Date Project.vbproj.GenerateResource.Cache
+E:\College\Visual Basic\VB2015\Chap08\Date Solution\Date Project\obj\Debug\Date Project.exe
+E:\College\Visual Basic\VB2015\Chap08\Date Solution\Date Project\obj\Debug\Date Project.xml
+E:\College\Visual Basic\VB2015\Chap08\Date Solution\Date Project\obj\Debug\Date Project.pdb
