@@ -8,17 +8,20 @@ Option Infer Off
 
 Public Class frmMain
     Private Sub btnChange_Click(sender As Object, e As EventArgs) Handles btnChange.Click
-        Dim num As Integer
         Dim dateNumbers As String
         Dim finalDate As String
         Dim dateArray() As String
 
-        Integer.TryParse(txtDate.Text, num)
-        dateNumbers = num.ToString
+        dateNumbers = txtDate.Text
+        'check date format
+        'convert to new
+        'if not right format inform user
         If dateNumbers Like "##[/]##[/]##" Then
             dateArray = Split(dateNumbers, "/")
             finalDate = dateArray(0) & "/" + dateArray(1) & "/20" & dateArray(2)
             lblDate.Text = finalDate
+        Else
+            MessageBox.Show("Must be in mm/dd/yy format.", "Date Program", MessageBoxButtons.OK, MessageBoxIcon.Information)
         End If
 
 

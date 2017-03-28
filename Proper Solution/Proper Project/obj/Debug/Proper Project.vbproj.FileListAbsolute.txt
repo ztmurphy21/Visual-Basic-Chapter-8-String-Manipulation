@@ -1,0 +1,10 @@
+E:\College\Visual Basic\VB2015\Chap08\Proper Solution\Proper Project\bin\Debug\Proper Project.exe.config
+E:\College\Visual Basic\VB2015\Chap08\Proper Solution\Proper Project\bin\Debug\Proper Project.exe
+E:\College\Visual Basic\VB2015\Chap08\Proper Solution\Proper Project\bin\Debug\Proper Project.pdb
+E:\College\Visual Basic\VB2015\Chap08\Proper Solution\Proper Project\bin\Debug\Proper Project.xml
+E:\College\Visual Basic\VB2015\Chap08\Proper Solution\Proper Project\obj\Debug\Proper_Project.frmMain.resources
+E:\College\Visual Basic\VB2015\Chap08\Proper Solution\Proper Project\obj\Debug\Proper_Project.Resources.resources
+E:\College\Visual Basic\VB2015\Chap08\Proper Solution\Proper Project\obj\Debug\Proper Project.vbproj.GenerateResource.Cache
+E:\College\Visual Basic\VB2015\Chap08\Proper Solution\Proper Project\obj\Debug\Proper Project.exe
+E:\College\Visual Basic\VB2015\Chap08\Proper Solution\Proper Project\obj\Debug\Proper Project.xml
+E:\College\Visual Basic\VB2015\Chap08\Proper Solution\Proper Project\obj\Debug\Proper Project.pdb
