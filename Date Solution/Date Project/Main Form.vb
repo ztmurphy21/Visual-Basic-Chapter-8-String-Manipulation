@@ -43,7 +43,6 @@ Public Class frmMain
         If (e.KeyChar < "0" OrElse e.KeyChar > "9") AndAlso
             e.KeyChar <> "/" AndAlso e.KeyChar <> ControlChars.Back Then
             e.Handled = True
-            lblDate.Text = inputDate
         End If
     End Sub
 End Class
